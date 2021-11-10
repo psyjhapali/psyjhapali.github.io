@@ -1,0 +1,17 @@
+*{
+     margin: 0;
+     padding: 0;
+}
+/* Navbar */
+.navbar-nav{
+ font-size: 18px;
+}
+/* button */
+.btn:hover{
+     color: white;
+}
+.navbar{
+     position: sticky;
+     top: 0;
+     z-index: 1;
+}
